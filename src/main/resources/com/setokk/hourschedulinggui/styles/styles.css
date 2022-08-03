@@ -1,0 +1,26 @@
+#header
+{
+	-fx-background-color: #89CD8D;
+}
+
+#dragPane
+{
+	-fx-background-color: #585A58;
+}
+
+#saveButton, #templateButton
+{
+	-fx-background-color: #585A58;
+	-fx-text-fill: #89CD8D;
+	-fx-border-radius: 15px;
+	-fx-border-color: #89CD8D;
+	-fx-border-width: 4px;
+	-fx-background-radius: 20px;
+}
+
+#saveButton:hover, #templateButton:hover
+{
+	-fx-background-color: #89CD8D;
+	-fx-text-fill: #585A58;
+	-fx-border-color: #585A58;
+}
